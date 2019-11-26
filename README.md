@@ -2,5 +2,5 @@
 
 # Integrantes:
 
-. Oscar Mateo Peñaherrera
-. Omar Espin
+* Oscar Mateo Peñaherrera
+*  Omar Espin
