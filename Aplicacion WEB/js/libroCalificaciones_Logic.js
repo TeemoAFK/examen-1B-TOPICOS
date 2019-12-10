@@ -1,2 +1,0 @@
-    asistenteFirebase.detectaUsuario(despliegaTablaPacientes);
-
