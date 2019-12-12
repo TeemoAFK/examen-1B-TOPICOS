@@ -4,3 +4,6 @@
 
 * Oscar Mateo Peñaherrera
 *  Omar Espin
+
+- Aplicacion Movil con Firebase 
+- API Android 23
